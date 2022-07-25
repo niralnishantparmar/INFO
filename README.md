@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @niralnishantparmar. 
+- 👧 I enjoy coding and am learning more and more every day!
+- 👀 I don't often add my projects to github... sorry about that. I may add new ones anytime in the future! 🤞
+- 🧠 I know HTML and CSS, although my primary coding language is python. 🐍
+- 📧 To get in touch, email niralnishantparmar@gmail.com! 😏
